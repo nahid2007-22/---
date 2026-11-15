@@ -1,0 +1,2 @@
+# ---
+কৃষি মিত্র is a Bengali mobile web super-app for Bangladesh farmers, installable as a PWA. It offers AI leaf-scan disease detection with cures, a 12-month profit crop calendar, 7-day weather alerts, loan and installment calculators, live market prices, fertilizer and land tools, and voice control.
